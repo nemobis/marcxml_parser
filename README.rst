@@ -6,8 +6,8 @@ Introduction
 
 .. image:: https://pypip.in/d/marcxml_parser/badge.png
 
-This module contains parser for `MARC XML`_ / `OAI`_ format, with some highlevel
-getters, which can retreive names of authors, or titles of books from MARC XML
+This module contains a parser for `MARC XML`_ / `OAI`_ format, with some highlevel
+getters, which can retrieve names of authors, or titles of books from MARC XML
 / OAI records.
 
 .. _MARC XML: http://www.loc.gov/marc/marcxml.html
