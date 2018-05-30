@@ -208,7 +208,7 @@ class MARCXMLParser(object):
     def add_data_field(self, name, i1, i2, subfields_dict):
         """
         Add new datafield into :attr:`datafields` and take care of OAI MARC
-        differencies.
+        differences.
 
         Args:
             name (str): Name of datafield.
